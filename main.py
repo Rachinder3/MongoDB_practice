@@ -36,9 +36,8 @@ if __name__ == "__main__":
 
     mongodb_obj.update_docs(collection=collection, previous=previous, new=new)
 
-
     # read
-    data = mongodb_obj.fetch_docs(collection=collection)
+    data = mongodb_obj.fetch_docs(collection=collection, condition={'name': "Singh"})
     for i in data:
         print(i)
 
