@@ -3,7 +3,7 @@
 
 This project aims to practice MongoDB with Python.
 
-# Database used: 
+# Dataset used: 
 https://archive.ics.uci.edu/ml/datasets/Carbon+Nanotubes
 
 # Tech Stack:
