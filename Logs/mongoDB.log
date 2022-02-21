@@ -1,0 +1,36 @@
+2022-02-20 08:37:38,777 INFO mongo db object initialized, connection established with the cluster
+2022-02-20 08:37:38,778 INFO Clean up done
+2022-02-20 08:37:41,229 INFO File downloaded successfully.
+2022-02-20 08:37:41,254 INFO data dictionary list created
+2022-02-20 08:37:41,254 INFO collection created
+2022-02-20 08:37:42,378 INFO documents inserted.
+2022-02-20 08:37:42,477 INFO document inserted
+2022-02-20 08:37:42,547 INFO documents updated
+2022-02-20 08:37:42,607 INFO Document deleted
+2022-02-20 08:37:42,666 INFO Collection dropped
+2022-02-20 08:55:33,511 INFO mongo db object initialized, connection established with the cluster
+2022-02-20 08:55:36,241 INFO collection created
+2022-02-20 08:55:37,364 INFO documents inserted.
+2022-02-20 08:55:37,463 INFO document inserted
+2022-02-20 08:55:37,532 INFO documents updated
+2022-02-20 08:55:37,592 INFO Document deleted
+2022-02-20 08:55:37,652 INFO Collection dropped
+2022-02-21 11:21:10,032 INFO mongo db object initialized, connection established with the cluster
+2022-02-21 11:21:13,169 INFO collection created
+2022-02-21 11:21:14,313 INFO documents inserted.
+2022-02-21 11:21:14,402 INFO document inserted
+2022-02-21 11:21:14,472 INFO documents updated
+2022-02-21 11:21:46,201 INFO mongo db object initialized, connection established with the cluster
+2022-02-21 11:21:48,650 INFO collection created
+2022-02-21 11:21:49,817 INFO documents inserted.
+2022-02-21 11:21:49,872 INFO document inserted
+2022-02-21 11:21:49,952 INFO documents updated
+2022-02-21 11:21:50,012 INFO Document deleted
+2022-02-21 11:21:50,072 INFO Collection dropped
+2022-02-21 11:22:18,351 INFO mongo db object initialized, connection established with the cluster
+2022-02-21 11:22:20,889 INFO collection created
+2022-02-21 11:22:22,115 INFO documents inserted.
+2022-02-21 11:22:22,162 INFO document inserted
+2022-02-21 11:22:22,253 INFO documents updated
+2022-02-21 11:22:23,342 INFO Document deleted
+2022-02-21 11:22:23,412 INFO Collection dropped
